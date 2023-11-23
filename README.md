@@ -1,20 +1,30 @@
 # Consultador de Idade
 
-Este é um simples aplicativo web para consultar a idade de uma pessoa com base na data de nascimento. Utiliza HTML, CSS e JavaScript para oferecer uma interface intuitiva.
+Bem-vindo ao Consultador de Idade! Este é um aplicativo web simples que calcula a idade com base na data de nascimento da pessoa. Utilizando HTML, CSS e JavaScript, proporciona uma experiência amigável e interativa.
 
 ## Como Usar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/consultador-de-idade.git
-Abra o arquivo index.html no seu navegador.
+1. **Clone o repositório:**
+    ```bash
+    git clone https://github.com/seu-usuario/consultador-de-idade.git
+    ```
 
-Insira a data de nascimento no campo fornecido.
+2. **Abra o arquivo `index.html` no navegador.**
 
-Clique no botão "Consultar Idade" para obter o resultado.
+3. **Insira a data de nascimento no campo fornecido.**
 
-Personalizações
-Modifique o estilo no arquivo CSS (style.css) para atender às suas preferências visuais.
-Adicione mais funcionalidades ou aprimore a lógica do JavaScript (script.js) conforme necessário.
-Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, sugerir melhorias ou enviar solicitações de pull.
+4. **Clique no botão "Consultar Idade" para obter o resultado.**
+
+## Personalizações
+
+- **Estilo:** Modifique o visual ajustando o arquivo CSS (`style.css`) conforme suas preferências.
+
+- **Funcionalidades Adicionais:** Adicione ou aprimore a lógica do JavaScript (`script.js`) conforme necessário.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para:
+
+- Abrir problemas para relatar bugs ou propor melhorias.
+- Sugerir melhorias no código.
+- Enviar solicitações de pull para colaborar no desenvolvimento.
